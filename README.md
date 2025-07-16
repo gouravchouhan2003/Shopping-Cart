@@ -1,14 +1,2 @@
-# CodeHelp Blogs WebApp using React JS
-
-
-## Project ScreenShots
-![ss1](ScreenShots/ss1.png)
-
-## Project URL
-
-- [Live URL](https://codehelp-blogs-website-react.netlify.app/)
-- [Solution](https://github.com/Psargar616/blogs-context-starter)
-
-
-
-
+# Shopping-Cart
+Shopping Cart is a simple React application that allows users to browse products, add them to a cart, and adjust quantities dynamically. It demonstrates the use of React components, state management (using hooks, Redux), and basic routing to create an interactive e-commerce experience.
