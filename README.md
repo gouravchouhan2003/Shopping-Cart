@@ -3,7 +3,8 @@ Shopping Cart is a simple React application that allows users to browse products
 
 
 
-🛠 Tech Stack
+🛠 Tech Stack:-
+
 • React – Core library for building user interfaces.
 
 • React Router – (Optional) For navigation between pages.
