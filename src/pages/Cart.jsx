@@ -26,7 +26,7 @@ const Cart = () => {
                    }
                 </div>
 
-                <div className='flex flex-col relative mt-[190px] w-[300px]'>
+                <div className='flex flex-col relative mt-[300px] w-[300px]'>
                     <div className='flex flex-col  absolute -top-[400px]'>
                          <div className='text-xl text-green-500 font-semibold uppercase'>Your Cart</div>
                          <div className='text-4xl text-green-500 font-bold uppercase'>Summary</div>
