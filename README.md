@@ -14,3 +14,4 @@ Shopping Cart is a simple React application that allows users to browse products
 
 
 <a href = "https://shopping-cart-mu-azure-89.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/128/6994/6994770.png" width="12px" height="14px"/> View Live Website</a>
+<p>Please refresh website if showing "No posts found"</p>
